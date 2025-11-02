@@ -8,3 +8,5 @@ sort：一些排序算法的实现。
 
 date：日期类的实现。
 
+my\_string：模拟实现的string类。
+
