@@ -10,3 +10,5 @@ date：日期类的实现。
 
 my\_string：模拟实现的string类。
 
+vector：模拟实现的vector类。
+
