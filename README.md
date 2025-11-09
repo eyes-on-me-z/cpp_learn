@@ -12,3 +12,5 @@ my\_string：模拟实现的string类。
 
 vector：模拟实现的vector类。
 
+list：模拟实现list类。
+
